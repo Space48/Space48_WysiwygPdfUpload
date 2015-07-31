@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Space48_WysiwygPdfUpload>
+            <version>0.1.0</version>
+        </Space48_WysiwygPdfUpload>
+    </modules>
+    <adminhtml>
+        <cms>
+            <browser>
+                <extensions>
+                    <allowed>
+                        <pdf>1</pdf>
+                    </allowed>
+                    <image_allowed>
+                        <pdf>1</pdf>
+                    </image_allowed>
+                </extensions>
+            </browser>
+        </cms>
+    </adminhtml>
+</config>

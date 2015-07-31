@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Space48_WysiwygPdfUpload>
+            <active>true</active>
+            <codePool>community</codePool>
+        </Space48_WysiwygPdfUpload>
+    </modules>
+</config>
